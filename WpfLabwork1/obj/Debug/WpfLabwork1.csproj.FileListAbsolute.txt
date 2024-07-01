@@ -1,0 +1,224 @@
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\Dmitry\Documents\Labs C#\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProductsPage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\SupliersPage.baml
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.g.cs
+C:\Users\romwi\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.baml
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.g.cs
+C:\Users\user\Desktop\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_Content.g.cs
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CopyComplete
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.Management.Automation.dll
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.xml
+C:\Users\user\Desktop\my\проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.IO.Packaging.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.Management.Automation.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_Content.g.cs
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CopyComplete
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\annig\OneDrive\Рабочий стол\my\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe.config
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.exe
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\WpfLabwork1.pdb
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.IO.Packaging.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\System.Management.Automation.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.xml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\EPPlus.xml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.AssemblyReference.cache
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_Content.g.cs
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.cache
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1_MarkupCompile.lref
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\App.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AddEditPage.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\AuthorizationPage.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ClientsPage.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainPage.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\MainWindow.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\ProfilePage.baml
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.g.resources
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.Properties.Resources.resources
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.GenerateResource.cache
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.csproj.CoreCompileInputs.cache
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwo.98C06ADE.Up2Date
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.exe
+C:\Users\annig\Desktop\Всё\Мои проекты\WpfLabwork1\WpfLabwork1\obj\Debug\WpfLabwork1.pdb

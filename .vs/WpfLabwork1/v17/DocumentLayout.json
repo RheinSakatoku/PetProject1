@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|c:\\users\\annig\\desktop\\\u0432\u0441\u0451\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\wpflabwork1\\wpflabwork1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\wpflabwork1\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A15A07B-91A4-4B74-A110-5EBC67F8B27B}|WpfLabwork1\\WpfLabwork1.csproj|solutionrelative:wpflabwork1\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\AuthorizationPage.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-11T12:40:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AddEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\AddEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AddEditPage.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\AddEditPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AddEditPage.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\AddEditPage.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AddEditPage.xaml",
+              "RelativeToolTip": "WpfLabwork1\\AddEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ProfilePage.xaml",
+              "RelativeToolTip": "WpfLabwork1\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ClientsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\ClientsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ClientsPage.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\ClientsPage.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ClientsPage.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\ClientsPage.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\ClientsPage.xaml",
+              "RelativeToolTip": "WpfLabwork1\\ClientsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Client.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\Client.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Client.cs",
+              "RelativeToolTip": "WpfLabwork1\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-11T12:40:26.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Token.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\Token.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Token.cs",
+              "RelativeToolTip": "WpfLabwork1\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\App.xaml.cs",
+              "RelativeToolTip": "WpfLabwork1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfLabwork1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\MainPage.xaml",
+              "RelativeToolTip": "WpfLabwork1\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WpfLabwork1\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\Model1.Context.cs",
+              "RelativeToolTip": "WpfLabwork1\\Model1.Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:40:26.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\AuthorizationPage.xaml",
+              "RelativeToolTip": "WpfLabwork1\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfLabwork1\\App.xaml",
+              "ToolTip": "C:\\Users\\annig\\Desktop\\\u0412\u0441\u0451\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\WpfLabwork1\\WpfLabwork1\\App.xaml",
+              "RelativeToolTip": "WpfLabwork1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T12:40:26.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿<Page x:Class="WpfLabwork1.ClientsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfLabwork1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ClientsPage" IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontFamily="Comic Sans MS"
+            FontSize="20"
+            Text="Список клиентов"></TextBlock>
+        <StackPanel Grid.Row="4" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button Content="Профиль" Name="ProfButton"  Click="ProfButton_Click"/>
+            <Button Content="Добавить" Name="AddButton"  Click="AddButton_Click"/>
+            <Button Content="Редактировать" Name="EditButton"  Click="EditButton_Click" Width="120"/>
+            <Button Content="Удалить" Name="DelButton"  Click="DelButton_Click"/>
+        </StackPanel>
+        <DataGrid FontFamily="Comic Sans MS" Name="MainDataGrid" Grid.Row="2" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding ID}"/>
+                <DataGridTextColumn Header="Пол" Binding="{Binding Gender.Name}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding Patronymic}"/>
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding Birthday}"/>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding Phone}"/>
+                <DataGridTextColumn Header="Эл.Почта" Binding="{Binding Email}"/>
+                <DataGridTextColumn Header="Дата добавления" Binding="{Binding RegistrationDate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <StackPanel Margin="10 0">
+                <TextBlock>Сортировка</TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="SortComboBox" Width="100" Height="25" Margin="0 0 5 0" 
+                              SelectionChanged="Sort_Changed">
+                        <ComboBoxItem IsSelected="True" Content="нет"/>
+                        <ComboBoxItem Content="Фамилия"/>
+                        <ComboBoxItem Content="Дата регистрации"/>
+                    </ComboBox>
+                    <StackPanel>
+                        <RadioButton Name="Up"
+                                     IsChecked="True"
+                                     Checked="UpChecked">По возрастанию</RadioButton>
+                        <RadioButton Name="Down"
+                                     Checked="DownChecked">По убыванию</RadioButton>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="10 0">
+                <TextBlock> Поиск</TextBlock>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="SearchCB" Width="100" Height="25" Margin="0 0 5 0" RenderTransformOrigin="0.603,0.647"
+                              SelectionChanged="Search_Changed">
+                        <ComboBoxItem IsSelected="True" Content="Фамилия"/>
+                        <ComboBoxItem Content="Имя"/>
+                        <ComboBoxItem Content="Отчество"/>
+                        <ComboBoxItem Content="Email"/>
+                        <ComboBoxItem Content="Телефон"/>
+                    </ComboBox>
+                    <TextBox x:Name="SearchTB" Width="150"
+                             TextChanged="SearchTBC"></TextBox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="10 0">
+                <TextBlock>Фильтрация</TextBlock>
+                <ComboBox Name="FiltrCB" Width="100" Height="25"
+                          SelectionChanged="Filtr_Changed">
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
